@@ -28,12 +28,12 @@ Python Scripts
 
 Getting Started
 1. Clone the Repository:
-   git clone https://github.com/your-username/seismic-analysis-repo.git
+git clone https://github.com/your-username/seismic-analysis-repo.git
 2. Install Required Packages: Ensure you install the necessary Python packages. You can install them using pip:
-   pip install obspy pygmt pandas matplotlib
-3. Run the Notebooks/Scripts:
-  Launch Jupyter Notebook and open the .ipynb files to follow the tutorials interactively.
-  Run the Python scripts from the command line or your preferred IDE.
+pip install obspy pygmt pandas matplotlib
+2. Run the Notebooks/Scripts:
+Launch Jupyter Notebook and open the .ipynb files to follow the tutorials interactively.
+Run the Python scripts from the command line or your preferred IDE.
 
 Contributions
 
